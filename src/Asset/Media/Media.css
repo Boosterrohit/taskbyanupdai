@@ -1,0 +1,104 @@
+@media (min-width: 768px) and (max-width: 991px) {
+  .bm-burger-button {
+    display: none !important;
+  }
+  .logo {
+    width: 100% !important;
+    padding: 0 !important;
+  }
+  .anchor {
+    margin-right: -31px !important;
+  }
+  .car {
+    background-color: white !important;
+    padding-top: 12px;
+  }
+  .bord {
+    border: 2px solid black !important;
+  }
+  .ky {
+    color: black !important;
+  }
+}
+@media (max-width: 600px) {
+  .bm-burger-button {
+    display: block !important;
+    top: 23px !important;
+  }
+  .cont-proj h3 {
+    font-size: 32px !important;
+  }
+  .last {
+    text-align: center;
+    font-size: 17px !important;
+  }
+  .dik {
+    margin-top: -25px;
+    margin-bottom: 80px;
+  }
+  .sev {
+    margin-top: -17px !important;
+  }
+  .bord {
+    width: 30% !important;
+    border: 2px solid black !important;
+  }
+  .car {
+    background-color: white !important;
+    padding-top: 12px;
+  }
+  .ky {
+    color: black !important;
+  }
+  .content {
+    top: 35% !important;
+  }
+  .anchor {
+    display: none !important;
+  }
+  .logo {
+    width: 40% !important;
+
+    padding-left: 0 !important;
+  }
+  .content h1 {
+    font-size: 27px !important;
+    font-weight: bold !important;
+  }
+  .parag p {
+    font-size: 16px;
+    line-height: 18px;
+  }
+  #company p {
+    font-size: 13px !important;
+  }
+  #company h1 {
+    font-size: 28px !important;
+  }
+}
+@media (max-width: 480px) {
+  .bm-burger-button {
+    top: 13px !important;
+  }
+}
+@media (max-width: 280px) {
+  .bm-burger-button {
+    width: 22px !important;
+    height: 17px !important;
+  }
+  .content {
+    top: 28% !important;
+  }
+  .bm-menu {
+    width: 80% !important;
+  }
+  .bm-cross {
+    margin-left: -62px;
+  }
+}
+
+@media (min-width: 992px) {
+  .bm-burger-button {
+    display: none !important;
+  }
+}
