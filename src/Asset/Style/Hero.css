@@ -248,3 +248,13 @@ input {
   display: flex;
   justify-content: center;
 }
+.dash {
+  background-color: #bb3f51;
+  border-radius: 15px;
+  padding: 10px 5px;
+  justify-content: center;
+  display: flex;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
